@@ -59,6 +59,10 @@ body {
     border-radius: 100%;
 }
 
+.cotrols_color:hover {
+    transform:scale(1.2);
+}
+
 .controls .controls_range {
     margin: 5px;
 }

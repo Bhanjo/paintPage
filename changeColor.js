@@ -1,5 +1,4 @@
 //색상 교체 코드
-
 const color = document.getElementsByClassName("jsColor");
 
 //색상 바꾸기
